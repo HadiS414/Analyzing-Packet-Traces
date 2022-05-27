@@ -7,7 +7,7 @@ dpkt --> "pip install dpkt"
 ```
 ## How to Execute
 ```
-Step 1: Open your favorite IDE (preferrably PyCharm).
+Step 1: Open your favorite IDE (preferably PyCharm).
 Step 2: Navigate to and execute the main class: analysis_pcap_tcp.py.
 Step 3: When prompted, enter the name of the .pcap file you would like to analyze.
 ```
